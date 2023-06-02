@@ -22,7 +22,7 @@ if Zona=="N" and Percentual <= 25:
 elif Zona=="L" or Zona=="W" and Percentual<=30:
     print("Projeto atende norma de zoneamento do plano diretor")
 
-elif Zona=="S" and Percentual<=30:
+elif Zona=="S" and Percentual<=40:
     print("Projeto atende norma de zoneamento do plano diretor")
 
 else:
